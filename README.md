@@ -1,4 +1,4 @@
-# Longest Common Prefix - Java Solution
+# Longest Common Prefix - Java 
 
 A fast and memory-efficient Java solution for finding the **Longest Common Prefix** among an array of strings.
 
@@ -32,3 +32,6 @@ strs[2]:  f l i g h t
           | | └─ Mismatch at index 2 ('o' != 'i') ➔ Return substring(0, 2) => "fl"
           | └── Match at index 1 ('l')
           └──── Match at index 0 ('f')
+Solution: Java
+Time complexity:0(s)
+Space complexity:0(1)

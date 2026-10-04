@@ -33,5 +33,5 @@ strs[2]:  f l i g h t
           | └── Match at index 1 ('l')
           └──── Match at index 0 ('f')
 Solution: Java
-Time complexity:0(s)
-Space complexity:0(1)
+- ** Time complexity**:0(s)
+- ** Space complexity**:0(1)
